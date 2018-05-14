@@ -1,0 +1,36 @@
+body {
+	background-color:#F5F5F5;
+}
+
+.padding-15  {
+	padding: 15px;
+}
+.no-padding {
+	padding : 0px;
+}
+.border-style {
+	border-style: groove;
+}
+.margin-70 {
+	margin:70px;
+}
+footer {
+	color: #fff;
+}
+.footer-container {
+	width: 100%;
+	padding-top: 1%;
+}
+.navbar-relative {
+	position: relative !important;
+}
+.no-padding-left {
+	padding-left: 0px;
+}
+.login-container {
+	width: 50%;
+	margin: auto;
+}
+.m-t-5 {
+	margin-top: 5%;
+}
